@@ -1,0 +1,10 @@
+jupyter
+# Libwally
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp27-cp27mu-linux_x86_64.whl; 'linux' in sys_platform and python_version == '2.7' #--hash=sha256:a16fb5c418107e7dff7c8c49a063dbf9c9a9ddec3af303a2d183db7b93a26a8e
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp36-cp36m-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.6' #--hash=sha256:f83118d5f4dcff8fa5cd3fbf669a0eac86a0f17fa310c7fe4dde3adbfe80465d
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp37-cp37m-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.7' #--hash=sha256:23d33c37127a981b2d309bd49a57bfae9abfc19202ae87fa7c5b4a30954b02e2
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp36-cp36m-win_amd64.whl; 'win32' in sys_platform and python_version == '3.6' #--hash=sha256:608dc68bcd97f244fe032b3dacb999acf9e103dad9a425dcc05525947d35e8de
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp37-cp37m-macosx_10_14_x86_64.whl; 'darwin' in sys_platform and python_version == '3.7' #--hash=sha256:db1cc706e9bcf042f180951ad6d8d586372a4f1578dba06151fbc9cc0cf14e54
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp37-cp37m-linux_armv7l.whl; 'linux' in sys_platform and python_version == '3.7' and platform_machine == 'armv7l' #--hash=sha256:7b159e1e5f11b158381e09563205b0c5e2d59c060f23cd81fe13945a39b129ab
+https://github.com/ElementsProject/libwally-core/releases/download/release_0.7.5/wallycore-0.7.5-cp37-cp37m-linux_aarch64.whl; 'linux' in sys_platform and python_version == '3.7' and platform_machine == 'aarch64' #--hash=sha256:b7ef6ddab1aba999164b8bdd0c8cb1edc1872a00c26cf382964acbaa22b29a54
+
